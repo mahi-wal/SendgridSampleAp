@@ -1,0 +1,12 @@
+  Rendering application_mailer/send_test_mail.html.erb within layouts/mailer
+  Rendered application_mailer/send_test_mail.html.erb within layouts/mailer (1.1ms)
+ApplicationMailer#send_test_mail: processed outbound mail in 166.3ms
+  Rendering application_mailer/send_test_mail.html.erb within layouts/mailer
+  Rendered application_mailer/send_test_mail.html.erb within layouts/mailer (1.4ms)
+ApplicationMailer#send_test_mail: processed outbound mail in 191.4ms
+  Rendering application_mailer/send_test_mail.html.erb within layouts/mailer
+  Rendered application_mailer/send_test_mail.html.erb within layouts/mailer (1.1ms)
+ApplicationMailer#send_test_mail: processed outbound mail in 174.2ms
+  Rendering application_mailer/send_test_mail.html.erb within layouts/mailer
+  Rendered application_mailer/send_test_mail.html.erb within layouts/mailer (1.1ms)
+ApplicationMailer#send_test_mail: processed outbound mail in 159.6ms
